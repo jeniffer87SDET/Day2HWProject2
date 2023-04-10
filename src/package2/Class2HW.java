@@ -10,5 +10,10 @@ public class Class2HW {
 	public void add (int a, int b) {
 		System.out.println(a + b);
 	}
+	
+	public void multiply () {
+		System.out.println(2 * 3);
+	
+	}
 
 }
